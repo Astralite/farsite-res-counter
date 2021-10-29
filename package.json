@@ -1,0 +1,15 @@
+{
+  "name": "farsite-res-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": ["farsite"],
+  "author": "Astralite",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
